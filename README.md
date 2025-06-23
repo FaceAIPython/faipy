@@ -89,4 +89,3 @@ MIT
 
 *If you like faipy, star the repo and share with your friends! For questions, contact [github.com/FaceAIPython/faipy](https://github.com/FaceAIPython/faipy)*
 
-```
